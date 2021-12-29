@@ -6,7 +6,7 @@ There are configuration settings.
 You can install applications.
 
 ## Install Pip
-`pip install colorama`
+`Not found`
 
 ## Licence
 Receive a license from **IgNatUsiK#5169**.
