@@ -4,6 +4,7 @@ Small OS for python
 The OS has several commands.
 There are configuration settings.
 You can install applications.
+**In develop!**
 
 ## Install Pip
 `Not found`
