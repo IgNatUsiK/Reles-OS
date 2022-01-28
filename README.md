@@ -1,14 +1,14 @@
 # Reles OS
+
 ## Description
-Small OS for python
-The OS has several commands.
-There are configuration settings.
-You can install applications.
-**In develop!**
+Tiny OS on Python 3.9.8? Yes :D
+Total weight: 642B
+Version 1.0.5 - Release!
 
 ## Install Pip
-`Not found`
+`pip install prompt_toolkit==1.0.14`
+`pip install SelectMenu`
+`pip install colorama`
 
 ## Licence
-Receive a license from **IgNatUsiK#5169**.
-If you do not have a license, the OS will not start.
+Creator: **IgNatUsiK#5169**
